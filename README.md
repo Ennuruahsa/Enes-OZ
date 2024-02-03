@@ -1,2 +1,1 @@
-# Enes-OZ
-Data Analyst / Frontend Developer / Data Scientist
+# Bibliothek (mit SQL)
