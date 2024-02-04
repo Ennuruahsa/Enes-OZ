@@ -43,3 +43,19 @@ VALUES (13,'Amoureus liedje in de morgenstond',51,155,'2000-01-05',200),
 
 
 
+--Transaction
+
+begin transaction -- Anfang des Codes
+UPDATE Buecher where BuchID=13 set Menge=100,
+Select * from bibliothek 
+-- rolback -- Stornierung
+-- Select * from bibliothek
+Commit
+
+
+
+
+
+
+
+
